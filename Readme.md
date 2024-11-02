@@ -7,7 +7,9 @@ node consumer.js <GROUP_NAME>
 node producer.js
 
 > dummy north
+
 > dummy2 south
+
 > dummy south
 
 like this...
